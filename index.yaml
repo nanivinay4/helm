@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vinay:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-10-17T10:41:40.96236993Z"
+    description: A Helm chart for Kubernetes
+    digest: 1e8ea98e5b29fe1cf1cf40d4ae7772c4488f5194b696f2fd35f2dcb7e5be9eec
+    name: vinay
+    type: application
+    urls:
+    - vinay-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-17T10:41:40.961216898Z"
